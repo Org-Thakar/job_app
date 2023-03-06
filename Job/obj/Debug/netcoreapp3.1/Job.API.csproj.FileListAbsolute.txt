@@ -1,0 +1,726 @@
+C:\Users\uday.s\Downloads\abc\Gas_GetQuotes\Gas_GetQuotes\EnergyGetQuotes\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\uday.s\Downloads\abc\Gas_GetQuotes\Gas_GetQuotes\EnergyGetQuotes\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\uday.s\Downloads\abc\Gas_GetQuotes\Gas_GetQuotes\EnergyGetQuotes\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\uday.s\Downloads\abc\Gas_GetQuotes\Gas_GetQuotes\EnergyGetQuotes\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\uday.s\Downloads\abc\Gas_GetQuotes\Gas_GetQuotes\EnergyGetQuotes\bin\Debug\netcoreapp3.1\Dapper.dll
+C:\Users\uday.s\Downloads\abc\Gas_GetQuotes\Gas_GetQuotes\EnergyGetQuotes\bin\Debug\netcoreapp3.1\GenFu.dll
+C:\Users\uday.s\Downloads\abc\Gas_GetQuotes\Gas_GetQuotes\EnergyGetQuotes\bin\Debug\netcoreapp3.1\GoCardless.dll
+C:\Users\uday.s\Downloads\abc\Gas_GetQuotes\Gas_GetQuotes\EnergyGetQuotes\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\uday.s\Downloads\abc\Gas_GetQuotes\Gas_GetQuotes\EnergyGetQuotes\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\uday.s\Downloads\abc\Gas_GetQuotes\Gas_GetQuotes\EnergyGetQuotes\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\uday.s\Downloads\abc\Gas_GetQuotes\Gas_GetQuotes\EnergyGetQuotes\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\uday.s\Downloads\abc\Gas_GetQuotes\Gas_GetQuotes\EnergyGetQuotes\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\uday.s\Downloads\abc\Gas_GetQuotes\Gas_GetQuotes\EnergyGetQuotes\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\uday.s\Downloads\abc\Gas_GetQuotes\Gas_GetQuotes\EnergyGetQuotes\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\uday.s\Downloads\abc\Gas_GetQuotes\Gas_GetQuotes\EnergyGetQuotes\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\uday.s\Downloads\abc\Gas_GetQuotes\Gas_GetQuotes\EnergyGetQuotes\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\uday.s\Downloads\abc\Gas_GetQuotes\Gas_GetQuotes\EnergyGetQuotes\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\uday.s\Downloads\abc\Gas_GetQuotes\Gas_GetQuotes\EnergyGetQuotes\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\uday.s\Downloads\abc\Gas_GetQuotes\Gas_GetQuotes\EnergyGetQuotes\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\uday.s\Downloads\abc\Gas_GetQuotes\Gas_GetQuotes\EnergyGetQuotes\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\uday.s\Downloads\abc\Gas_GetQuotes\Gas_GetQuotes\EnergyGetQuotes\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\uday.s\Downloads\abc\Gas_GetQuotes\Gas_GetQuotes\EnergyGetQuotes\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\uday.s\Downloads\abc\Gas_GetQuotes\Gas_GetQuotes\EnergyGetQuotes\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\uday.s\Downloads\abc\Gas_GetQuotes\Gas_GetQuotes\EnergyGetQuotes\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\uday.s\Downloads\abc\Gas_GetQuotes\Gas_GetQuotes\EnergyGetQuotes\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\uday.s\Downloads\abc\Gas_GetQuotes\Gas_GetQuotes\EnergyGetQuotes\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\uday.s\Downloads\abc\Gas_GetQuotes\Gas_GetQuotes\EnergyGetQuotes\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\uday.s\Downloads\abc\Gas_GetQuotes\Gas_GetQuotes\EnergyGetQuotes\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\uday.s\Downloads\abc\Gas_GetQuotes\Gas_GetQuotes\EnergyGetQuotes\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\uday.s\Downloads\abc\Gas_GetQuotes\Gas_GetQuotes\EnergyGetQuotes\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\uday.s\Downloads\abc\Gas_GetQuotes\Gas_GetQuotes\EnergyGetQuotes\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\uday.s\Downloads\abc\Gas_GetQuotes\Gas_GetQuotes\EnergyGetQuotes\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\uday.s\Downloads\abc\Gas_GetQuotes\Gas_GetQuotes\EnergyGetQuotes\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\uday.s\Downloads\abc\Gas_GetQuotes\Gas_GetQuotes\EnergyGetQuotes\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\uday.s\Downloads\abc\Gas_GetQuotes\Gas_GetQuotes\EnergyGetQuotes\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\uday.s\Downloads\abc\Gas_GetQuotes\Gas_GetQuotes\EnergyGetQuotes\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\uday.s\Downloads\abc\Gas_GetQuotes\Gas_GetQuotes\EnergyGetQuotes\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\uday.s\Downloads\abc\Gas_GetQuotes\Gas_GetQuotes\EnergyGetQuotes\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\uday.s\Downloads\abc\Gas_GetQuotes\Gas_GetQuotes\EnergyGetQuotes\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\uday.s\Downloads\abc\Gas_GetQuotes\Gas_GetQuotes\EnergyGetQuotes\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\uday.s\Downloads\abc\Gas_GetQuotes\Gas_GetQuotes\EnergyGetQuotes\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\uday.s\Downloads\abc\Gas_GetQuotes\Gas_GetQuotes\EnergyGetQuotes\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\uday.s\Downloads\abc\Gas_GetQuotes\Gas_GetQuotes\EnergyGetQuotes\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\uday.s\Downloads\abc\Gas_GetQuotes\Gas_GetQuotes\EnergyGetQuotes\bin\Debug\netcoreapp3.1\Serilog.dll
+C:\Users\uday.s\Downloads\abc\Gas_GetQuotes\Gas_GetQuotes\EnergyGetQuotes\bin\Debug\netcoreapp3.1\Serilog.AspNetCore.dll
+C:\Users\uday.s\Downloads\abc\Gas_GetQuotes\Gas_GetQuotes\EnergyGetQuotes\bin\Debug\netcoreapp3.1\Serilog.Extensions.Hosting.dll
+C:\Users\uday.s\Downloads\abc\Gas_GetQuotes\Gas_GetQuotes\EnergyGetQuotes\bin\Debug\netcoreapp3.1\Serilog.Extensions.Logging.dll
+C:\Users\uday.s\Downloads\abc\Gas_GetQuotes\Gas_GetQuotes\EnergyGetQuotes\bin\Debug\netcoreapp3.1\Serilog.Formatting.Compact.dll
+C:\Users\uday.s\Downloads\abc\Gas_GetQuotes\Gas_GetQuotes\EnergyGetQuotes\bin\Debug\netcoreapp3.1\Serilog.Settings.Configuration.dll
+C:\Users\uday.s\Downloads\abc\Gas_GetQuotes\Gas_GetQuotes\EnergyGetQuotes\bin\Debug\netcoreapp3.1\Serilog.Sinks.Console.dll
+C:\Users\uday.s\Downloads\abc\Gas_GetQuotes\Gas_GetQuotes\EnergyGetQuotes\bin\Debug\netcoreapp3.1\Serilog.Sinks.Debug.dll
+C:\Users\uday.s\Downloads\abc\Gas_GetQuotes\Gas_GetQuotes\EnergyGetQuotes\bin\Debug\netcoreapp3.1\Serilog.Sinks.File.dll
+C:\Users\uday.s\Downloads\abc\Gas_GetQuotes\Gas_GetQuotes\EnergyGetQuotes\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\uday.s\Downloads\abc\Gas_GetQuotes\Gas_GetQuotes\EnergyGetQuotes\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\uday.s\Downloads\abc\Gas_GetQuotes\Gas_GetQuotes\EnergyGetQuotes\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\uday.s\Downloads\abc\Gas_GetQuotes\Gas_GetQuotes\EnergyGetQuotes\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\uday.s\Downloads\abc\Gas_GetQuotes\Gas_GetQuotes\EnergyGetQuotes\bin\Debug\netcoreapp3.1\SqlKata.dll
+C:\Users\uday.s\Downloads\abc\Gas_GetQuotes\Gas_GetQuotes\EnergyGetQuotes\bin\Debug\netcoreapp3.1\SqlKata.Execution.dll
+C:\Users\uday.s\Downloads\abc\Gas_GetQuotes\Gas_GetQuotes\EnergyGetQuotes\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\uday.s\Downloads\abc\Gas_GetQuotes\Gas_GetQuotes\EnergyGetQuotes\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\uday.s\Downloads\abc\Gas_GetQuotes\Gas_GetQuotes\EnergyGetQuotes\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\uday.s\Downloads\abc\Gas_GetQuotes\Gas_GetQuotes\EnergyGetQuotes\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\uday.s\Downloads\abc\Gas_GetQuotes\Gas_GetQuotes\EnergyGetQuotes\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\uday.s\Downloads\abc\Gas_GetQuotes\Gas_GetQuotes\EnergyGetQuotes\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\uday.s\Downloads\abc\Gas_GetQuotes\Gas_GetQuotes\EnergyGetQuotes\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\uday.s\Downloads\abc\Gas_GetQuotes\Gas_GetQuotes\EnergyGetQuotes\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\uday.s\Downloads\abc\Gas_GetQuotes\Gas_GetQuotes\EnergyGetQuotes\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\uday.s\Downloads\abc\Gas_GetQuotes\Gas_GetQuotes\EnergyGetQuotes\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\uday.s\Downloads\abc\Gas_GetQuotes\Gas_GetQuotes\EnergyGetQuotes\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\uday.s\Downloads\abc\Gas_GetQuotes\Gas_GetQuotes\EnergyGetQuotes\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\uday.s\Downloads\abc\Gas_GetQuotes\Gas_GetQuotes\EnergyGetQuotes\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\uday.s\Downloads\abc\Gas_GetQuotes\Gas_GetQuotes\EnergyGetQuotes\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\uday.s\Downloads\abc\Gas_GetQuotes\Gas_GetQuotes\EnergyGetQuotes\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\uday.s\Downloads\abc\Gas_GetQuotes\Gas_GetQuotes\EnergyGetQuotes\bin\Debug\netcoreapp3.1\Twilio.dll
+C:\Users\uday.s\Downloads\abc\Gas_GetQuotes\Gas_GetQuotes\EnergyGetQuotes\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\uday.s\Downloads\abc\Gas_GetQuotes\Gas_GetQuotes\EnergyGetQuotes\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\uday.s\Downloads\abc\Gas_GetQuotes\Gas_GetQuotes\EnergyGetQuotes\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\uday.s\Downloads\abc\Gas_GetQuotes\Gas_GetQuotes\EnergyGetQuotes\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\uday.s\Downloads\abc\Gas_GetQuotes\Gas_GetQuotes\EnergyGetQuotes\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\uday.s\Downloads\abc\Gas_GetQuotes\Gas_GetQuotes\EnergyGetQuotes\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\uday.s\Downloads\abc\Gas_GetQuotes\Gas_GetQuotes\EnergyGetQuotes\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\uday.s\Downloads\abc\Gas_GetQuotes\Gas_GetQuotes\EnergyGetQuotes\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\uday.s\Downloads\abc\Gas_GetQuotes\Gas_GetQuotes\EnergyGetQuotes\bin\Debug\netcoreapp3.1\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\uday.s\Downloads\abc\Gas_GetQuotes\Gas_GetQuotes\EnergyGetQuotes\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\uday.s\Downloads\abc\Gas_GetQuotes\Gas_GetQuotes\EnergyGetQuotes\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\uday.s\Downloads\abc\Gas_GetQuotes\Gas_GetQuotes\EnergyGetQuotes\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\uday.s\Downloads\abc\Gas_GetQuotes\Gas_GetQuotes\EnergyGetQuotes\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\uday.s\Downloads\abc\Gas_GetQuotes\Gas_GetQuotes\EnergyGetQuotes\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\uday.s\Downloads\abc\Gas_GetQuotes\Gas_GetQuotes\EnergyGetQuotes\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\uday.s\Downloads\abc\Gas_GetQuotes\Gas_GetQuotes\EnergyGetQuotes\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\uday.s\Downloads\abc\Gas_GetQuotes\Gas_GetQuotes\EnergyGetQuotes\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\uday.s\Downloads\abc\Gas_GetQuotes\Gas_GetQuotes\EnergyGetQuotes\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\uday.s\Downloads\abc\Gas_GetQuotes\Gas_GetQuotes\EnergyGetQuotes\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\uday.s\Downloads\abc\Gas_GetQuotes\Gas_GetQuotes\EnergyGetQuotes\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\uday.s\Downloads\abc\Gas_GetQuotes\Gas_GetQuotes\EnergyGetQuotes\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\uday.s\Downloads\abc\Gas_GetQuotes\Gas_GetQuotes\EnergyGetQuotes\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\Users\uday.s\Downloads\abc\Gas_GetQuotes\Gas_GetQuotes\EnergyGetQuotes\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\uday.s\Downloads\abc\Gas_GetQuotes\Gas_GetQuotes\EnergyGetQuotes\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\uday.s\Downloads\abc\Gas_GetQuotes\Gas_GetQuotes\EnergyGetQuotes\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\uday.s\Downloads\abc\Gas_GetQuotes\Gas_GetQuotes\EnergyGetQuotes\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\uday.s\Downloads\abc\Gas_GetQuotes\Gas_GetQuotes\EnergyGetQuotes\obj\Debug\netcoreapp3.1\Job.API.csproj.AssemblyReference.cache
+C:\Users\uday.s\Downloads\abc\Gas_GetQuotes\Gas_GetQuotes\EnergyGetQuotes\obj\Debug\netcoreapp3.1\Job.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uday.s\Downloads\abc\Gas_GetQuotes\Gas_GetQuotes\EnergyGetQuotes\obj\Debug\netcoreapp3.1\Job.API.AssemblyInfoInputs.cache
+C:\Users\uday.s\Downloads\abc\Gas_GetQuotes\Gas_GetQuotes\EnergyGetQuotes\obj\Debug\netcoreapp3.1\Job.API.AssemblyInfo.cs
+C:\Users\uday.s\Downloads\abc\Gas_GetQuotes\Gas_GetQuotes\EnergyGetQuotes\obj\Debug\netcoreapp3.1\Job.API.csproj.CoreCompileInputs.cache
+C:\Users\uday.s\Downloads\abc\Gas_GetQuotes\Gas_GetQuotes\EnergyGetQuotes\obj\Debug\netcoreapp3.1\Job.API.RazorAssemblyInfo.cache
+C:\Users\uday.s\Downloads\abc\Gas_GetQuotes\Gas_GetQuotes\EnergyGetQuotes\obj\Debug\netcoreapp3.1\Job.API.RazorAssemblyInfo.cs
+C:\Users\uday.s\Downloads\abc\Gas_GetQuotes\Gas_GetQuotes\EnergyGetQuotes\obj\Debug\netcoreapp3.1\Job.API.RazorCoreGenerate.cache
+C:\Users\uday.s\Downloads\abc\Gas_GetQuotes\Gas_GetQuotes\EnergyGetQuotes\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\uday.s\Downloads\abc\Gas_GetQuotes\Gas_GetQuotes\EnergyGetQuotes\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\uday.s\Downloads\abc\Gas_GetQuotes\Gas_GetQuotes\EnergyGetQuotes\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\uday.s\Downloads\abc\Gas_GetQuotes\Gas_GetQuotes\EnergyGetQuotes\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\uday.s\Downloads\abc\Gas_GetQuotes\Gas_GetQuotes\EnergyGetQuotes\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\uday.s\Downloads\abc\Gas_GetQuotes\Gas_GetQuotes\EnergyGetQuotes\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\uday.s\Downloads\abc\Gas_GetQuotes\Gas_GetQuotes\EnergyGetQuotes\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\uday.s\Downloads\abc\Gas_GetQuotes\Gas_GetQuotes\EnergyGetQuotes\obj\Debug\netcoreapp3.1\Job.API.RazorTargetAssemblyInfo.cache
+C:\Users\uday.s\Downloads\abc\Gas_GetQuotes\Gas_GetQuotes\EnergyGetQuotes\obj\Debug\netcoreapp3.1\Job.API.RazorTargetAssemblyInfo.cs
+C:\Users\uday.s\Downloads\abc\Gas_GetQuotes\Gas_GetQuotes\EnergyGetQuotes\obj\Debug\netcoreapp3.1\Job.API.csproj.CopyComplete
+C:\Users\uday.s\Downloads\abc\Gas_GetQuotes\Gas_GetQuotes\EnergyGetQuotes\obj\Debug\netcoreapp3.1\Job.API.genruntimeconfig.cache
+C:\Users\uday.s\Downloads\abc\Gas_GetQuotes\Gas_GetQuotes\EnergyGetQuotes\bin\Debug\netcoreapp3.1\Job.Application.dll
+C:\Users\uday.s\Downloads\abc\Gas_GetQuotes\Gas_GetQuotes\EnergyGetQuotes\bin\Debug\netcoreapp3.1\Job.Core.dll
+C:\Users\uday.s\Downloads\abc\Gas_GetQuotes\Gas_GetQuotes\EnergyGetQuotes\bin\Debug\netcoreapp3.1\Job.Infrastructure.dll
+C:\Users\uday.s\Downloads\abc\Gas_GetQuotes\Gas_GetQuotes\EnergyGetQuotes\bin\Debug\netcoreapp3.1\Job.Application.pdb
+C:\Users\uday.s\Downloads\abc\Gas_GetQuotes\Gas_GetQuotes\EnergyGetQuotes\bin\Debug\netcoreapp3.1\Job.Core.pdb
+C:\Users\uday.s\Downloads\abc\Gas_GetQuotes\Gas_GetQuotes\EnergyGetQuotes\bin\Debug\netcoreapp3.1\Job.Infrastructure.pdb
+C:\Users\uday.s\Downloads\abc\Gas_GetQuotes\Gas_GetQuotes\EnergyGetQuotes\bin\Debug\netcoreapp3.1\Job.API.exe
+C:\Users\uday.s\Downloads\abc\Gas_GetQuotes\Gas_GetQuotes\EnergyGetQuotes\bin\Debug\netcoreapp3.1\Job.API.deps.json
+C:\Users\uday.s\Downloads\abc\Gas_GetQuotes\Gas_GetQuotes\EnergyGetQuotes\bin\Debug\netcoreapp3.1\Job.API.runtimeconfig.json
+C:\Users\uday.s\Downloads\abc\Gas_GetQuotes\Gas_GetQuotes\EnergyGetQuotes\bin\Debug\netcoreapp3.1\Job.API.runtimeconfig.dev.json
+C:\Users\uday.s\Downloads\abc\Gas_GetQuotes\Gas_GetQuotes\EnergyGetQuotes\bin\Debug\netcoreapp3.1\Job.API.dll
+C:\Users\uday.s\Downloads\abc\Gas_GetQuotes\Gas_GetQuotes\EnergyGetQuotes\bin\Debug\netcoreapp3.1\Job.API.pdb
+C:\Users\uday.s\Downloads\abc\Gas_GetQuotes\Gas_GetQuotes\EnergyGetQuotes\bin\Debug\netcoreapp3.1\Job.API.Views.dll
+C:\Users\uday.s\Downloads\abc\Gas_GetQuotes\Gas_GetQuotes\EnergyGetQuotes\bin\Debug\netcoreapp3.1\Job.API.Views.pdb
+C:\Users\uday.s\Downloads\abc\Gas_GetQuotes\Gas_GetQuotes\EnergyGetQuotes\obj\Debug\netcoreapp3.1\Job.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\uday.s\Downloads\abc\Gas_GetQuotes\Gas_GetQuotes\EnergyGetQuotes\obj\Debug\netcoreapp3.1\Job.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\uday.s\Downloads\abc\Gas_GetQuotes\Gas_GetQuotes\EnergyGetQuotes\obj\Debug\netcoreapp3.1\staticwebassets\Job.API.StaticWebAssets.Manifest.cache
+C:\Users\uday.s\Downloads\abc\Gas_GetQuotes\Gas_GetQuotes\EnergyGetQuotes\obj\Debug\netcoreapp3.1\staticwebassets\Job.API.StaticWebAssets.xml
+C:\Users\uday.s\Downloads\abc\Gas_GetQuotes\Gas_GetQuotes\EnergyGetQuotes\obj\Debug\netcoreapp3.1\scopedcss\bundle\Job.API.styles.css
+C:\Users\uday.s\Downloads\abc\Gas_GetQuotes\Gas_GetQuotes\EnergyGetQuotes\obj\Debug\netcoreapp3.1\Job.API.TagHelpers.input.cache
+C:\Users\uday.s\Downloads\abc\Gas_GetQuotes\Gas_GetQuotes\EnergyGetQuotes\obj\Debug\netcoreapp3.1\Job.API.TagHelpers.output.cache
+C:\Users\uday.s\Downloads\abc\Gas_GetQuotes\Gas_GetQuotes\EnergyGetQuotes\obj\Debug\netcoreapp3.1\Job.API.Views.pdb
+C:\Users\uday.s\Downloads\abc\Gas_GetQuotes\Gas_GetQuotes\EnergyGetQuotes\obj\Debug\netcoreapp3.1\Job.API.dll
+C:\Users\uday.s\Downloads\abc\Gas_GetQuotes\Gas_GetQuotes\EnergyGetQuotes\obj\Debug\netcoreapp3.1\Job.API.pdb
+E:\uday\Job\EnergyGetQuotes\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\uday\Job\EnergyGetQuotes\bin\Debug\netcoreapp3.1\appsettings.json
+E:\uday\Job\EnergyGetQuotes\bin\Debug\netcoreapp3.1\Job.API.StaticWebAssets.xml
+E:\uday\Job\EnergyGetQuotes\bin\Debug\netcoreapp3.1\Job.API.exe
+E:\uday\Job\EnergyGetQuotes\bin\Debug\netcoreapp3.1\Job.API.deps.json
+E:\uday\Job\EnergyGetQuotes\bin\Debug\netcoreapp3.1\Job.API.runtimeconfig.json
+E:\uday\Job\EnergyGetQuotes\bin\Debug\netcoreapp3.1\Job.API.runtimeconfig.dev.json
+E:\uday\Job\EnergyGetQuotes\bin\Debug\netcoreapp3.1\Job.API.dll
+E:\uday\Job\EnergyGetQuotes\bin\Debug\netcoreapp3.1\Job.API.pdb
+E:\uday\Job\EnergyGetQuotes\bin\Debug\netcoreapp3.1\Job.API.Views.dll
+E:\uday\Job\EnergyGetQuotes\bin\Debug\netcoreapp3.1\Job.API.Views.pdb
+E:\uday\Job\EnergyGetQuotes\bin\Debug\netcoreapp3.1\AutoMapper.dll
+E:\uday\Job\EnergyGetQuotes\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\uday\Job\EnergyGetQuotes\bin\Debug\netcoreapp3.1\Dapper.dll
+E:\uday\Job\EnergyGetQuotes\bin\Debug\netcoreapp3.1\GenFu.dll
+E:\uday\Job\EnergyGetQuotes\bin\Debug\netcoreapp3.1\GoCardless.dll
+E:\uday\Job\EnergyGetQuotes\bin\Debug\netcoreapp3.1\Humanizer.dll
+E:\uday\Job\EnergyGetQuotes\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+E:\uday\Job\EnergyGetQuotes\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\uday\Job\EnergyGetQuotes\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+E:\uday\Job\EnergyGetQuotes\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+E:\uday\Job\EnergyGetQuotes\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+E:\uday\Job\EnergyGetQuotes\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\uday\Job\EnergyGetQuotes\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\uday\Job\EnergyGetQuotes\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\uday\Job\EnergyGetQuotes\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\uday\Job\EnergyGetQuotes\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+E:\uday\Job\EnergyGetQuotes\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\uday\Job\EnergyGetQuotes\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\uday\Job\EnergyGetQuotes\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\uday\Job\EnergyGetQuotes\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\uday\Job\EnergyGetQuotes\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\uday\Job\EnergyGetQuotes\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\uday\Job\EnergyGetQuotes\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+E:\uday\Job\EnergyGetQuotes\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\uday\Job\EnergyGetQuotes\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\uday\Job\EnergyGetQuotes\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+E:\uday\Job\EnergyGetQuotes\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\uday\Job\EnergyGetQuotes\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+E:\uday\Job\EnergyGetQuotes\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\uday\Job\EnergyGetQuotes\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+E:\uday\Job\EnergyGetQuotes\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\uday\Job\EnergyGetQuotes\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\uday\Job\EnergyGetQuotes\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\uday\Job\EnergyGetQuotes\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\uday\Job\EnergyGetQuotes\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\uday\Job\EnergyGetQuotes\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\uday\Job\EnergyGetQuotes\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\uday\Job\EnergyGetQuotes\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+E:\uday\Job\EnergyGetQuotes\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+E:\uday\Job\EnergyGetQuotes\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\uday\Job\EnergyGetQuotes\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+E:\uday\Job\EnergyGetQuotes\bin\Debug\netcoreapp3.1\Serilog.dll
+E:\uday\Job\EnergyGetQuotes\bin\Debug\netcoreapp3.1\Serilog.AspNetCore.dll
+E:\uday\Job\EnergyGetQuotes\bin\Debug\netcoreapp3.1\Serilog.Extensions.Hosting.dll
+E:\uday\Job\EnergyGetQuotes\bin\Debug\netcoreapp3.1\Serilog.Extensions.Logging.dll
+E:\uday\Job\EnergyGetQuotes\bin\Debug\netcoreapp3.1\Serilog.Formatting.Compact.dll
+E:\uday\Job\EnergyGetQuotes\bin\Debug\netcoreapp3.1\Serilog.Settings.Configuration.dll
+E:\uday\Job\EnergyGetQuotes\bin\Debug\netcoreapp3.1\Serilog.Sinks.Console.dll
+E:\uday\Job\EnergyGetQuotes\bin\Debug\netcoreapp3.1\Serilog.Sinks.Debug.dll
+E:\uday\Job\EnergyGetQuotes\bin\Debug\netcoreapp3.1\Serilog.Sinks.File.dll
+E:\uday\Job\EnergyGetQuotes\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+E:\uday\Job\EnergyGetQuotes\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+E:\uday\Job\EnergyGetQuotes\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+E:\uday\Job\EnergyGetQuotes\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+E:\uday\Job\EnergyGetQuotes\bin\Debug\netcoreapp3.1\SqlKata.dll
+E:\uday\Job\EnergyGetQuotes\bin\Debug\netcoreapp3.1\SqlKata.Execution.dll
+E:\uday\Job\EnergyGetQuotes\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+E:\uday\Job\EnergyGetQuotes\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\uday\Job\EnergyGetQuotes\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\uday\Job\EnergyGetQuotes\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\uday\Job\EnergyGetQuotes\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\uday\Job\EnergyGetQuotes\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+E:\uday\Job\EnergyGetQuotes\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\uday\Job\EnergyGetQuotes\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+E:\uday\Job\EnergyGetQuotes\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\uday\Job\EnergyGetQuotes\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+E:\uday\Job\EnergyGetQuotes\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\uday\Job\EnergyGetQuotes\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+E:\uday\Job\EnergyGetQuotes\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+E:\uday\Job\EnergyGetQuotes\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+E:\uday\Job\EnergyGetQuotes\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+E:\uday\Job\EnergyGetQuotes\bin\Debug\netcoreapp3.1\Twilio.dll
+E:\uday\Job\EnergyGetQuotes\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\uday\Job\EnergyGetQuotes\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\uday\Job\EnergyGetQuotes\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\uday\Job\EnergyGetQuotes\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\uday\Job\EnergyGetQuotes\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+E:\uday\Job\EnergyGetQuotes\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+E:\uday\Job\EnergyGetQuotes\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+E:\uday\Job\EnergyGetQuotes\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+E:\uday\Job\EnergyGetQuotes\bin\Debug\netcoreapp3.1\runtimes\linux-mips64\native\libe_sqlite3.so
+E:\uday\Job\EnergyGetQuotes\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+E:\uday\Job\EnergyGetQuotes\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+E:\uday\Job\EnergyGetQuotes\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+E:\uday\Job\EnergyGetQuotes\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+E:\uday\Job\EnergyGetQuotes\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+E:\uday\Job\EnergyGetQuotes\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+E:\uday\Job\EnergyGetQuotes\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+E:\uday\Job\EnergyGetQuotes\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+E:\uday\Job\EnergyGetQuotes\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\uday\Job\EnergyGetQuotes\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\uday\Job\EnergyGetQuotes\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\uday\Job\EnergyGetQuotes\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\uday\Job\EnergyGetQuotes\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+E:\uday\Job\EnergyGetQuotes\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\uday\Job\EnergyGetQuotes\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+E:\uday\Job\EnergyGetQuotes\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+E:\uday\Job\EnergyGetQuotes\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\uday\Job\EnergyGetQuotes\bin\Debug\netcoreapp3.1\Job.Application.dll
+E:\uday\Job\EnergyGetQuotes\bin\Debug\netcoreapp3.1\Job.Core.dll
+E:\uday\Job\EnergyGetQuotes\bin\Debug\netcoreapp3.1\Job.Infrastructure.dll
+E:\uday\Job\EnergyGetQuotes\bin\Debug\netcoreapp3.1\Job.Application.pdb
+E:\uday\Job\EnergyGetQuotes\bin\Debug\netcoreapp3.1\Job.Core.pdb
+E:\uday\Job\EnergyGetQuotes\bin\Debug\netcoreapp3.1\Job.Infrastructure.pdb
+E:\uday\Job\EnergyGetQuotes\obj\Debug\netcoreapp3.1\Job.API.csproj.AssemblyReference.cache
+E:\uday\Job\EnergyGetQuotes\obj\Debug\netcoreapp3.1\Job.API.GeneratedMSBuildEditorConfig.editorconfig
+E:\uday\Job\EnergyGetQuotes\obj\Debug\netcoreapp3.1\Job.API.AssemblyInfoInputs.cache
+E:\uday\Job\EnergyGetQuotes\obj\Debug\netcoreapp3.1\Job.API.AssemblyInfo.cs
+E:\uday\Job\EnergyGetQuotes\obj\Debug\netcoreapp3.1\Job.API.csproj.CoreCompileInputs.cache
+E:\uday\Job\EnergyGetQuotes\obj\Debug\netcoreapp3.1\Job.API.MvcApplicationPartsAssemblyInfo.cs
+E:\uday\Job\EnergyGetQuotes\obj\Debug\netcoreapp3.1\Job.API.MvcApplicationPartsAssemblyInfo.cache
+E:\uday\Job\EnergyGetQuotes\obj\Debug\netcoreapp3.1\Job.API.RazorAssemblyInfo.cache
+E:\uday\Job\EnergyGetQuotes\obj\Debug\netcoreapp3.1\Job.API.RazorAssemblyInfo.cs
+E:\uday\Job\EnergyGetQuotes\obj\Debug\netcoreapp3.1\staticwebassets\Job.API.StaticWebAssets.Manifest.cache
+E:\uday\Job\EnergyGetQuotes\obj\Debug\netcoreapp3.1\Job.API.TagHelpers.input.cache
+E:\uday\Job\EnergyGetQuotes\obj\Debug\netcoreapp3.1\Job.API.TagHelpers.output.cache
+E:\uday\Job\EnergyGetQuotes\obj\Debug\netcoreapp3.1\Job.API.RazorCoreGenerate.cache
+E:\uday\Job\EnergyGetQuotes\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+E:\uday\Job\EnergyGetQuotes\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+E:\uday\Job\EnergyGetQuotes\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+E:\uday\Job\EnergyGetQuotes\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+E:\uday\Job\EnergyGetQuotes\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\uday\Job\EnergyGetQuotes\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+E:\uday\Job\EnergyGetQuotes\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+E:\uday\Job\EnergyGetQuotes\obj\Debug\netcoreapp3.1\Job.API.RazorTargetAssemblyInfo.cache
+E:\uday\Job\EnergyGetQuotes\obj\Debug\netcoreapp3.1\Job.API.RazorTargetAssemblyInfo.cs
+E:\uday\Job\EnergyGetQuotes\obj\Debug\netcoreapp3.1\Job.API.Views.pdb
+E:\uday\Job\EnergyGetQuotes\obj\Debug\netcoreapp3.1\Job.API.csproj.CopyComplete
+E:\uday\Job\EnergyGetQuotes\obj\Debug\netcoreapp3.1\Job.API.dll
+E:\uday\Job\EnergyGetQuotes\obj\Debug\netcoreapp3.1\Job.API.pdb
+E:\uday\Job\EnergyGetQuotes\obj\Debug\netcoreapp3.1\Job.API.genruntimeconfig.cache
+E:\uday\j1\EnergyGetQuotes\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\uday\j1\EnergyGetQuotes\bin\Debug\netcoreapp3.1\appsettings.json
+E:\uday\j1\EnergyGetQuotes\bin\Debug\netcoreapp3.1\Job.API.StaticWebAssets.xml
+E:\uday\j1\EnergyGetQuotes\bin\Debug\netcoreapp3.1\Job.API.exe
+E:\uday\j1\EnergyGetQuotes\bin\Debug\netcoreapp3.1\Job.API.deps.json
+E:\uday\j1\EnergyGetQuotes\bin\Debug\netcoreapp3.1\Job.API.runtimeconfig.json
+E:\uday\j1\EnergyGetQuotes\bin\Debug\netcoreapp3.1\Job.API.runtimeconfig.dev.json
+E:\uday\j1\EnergyGetQuotes\bin\Debug\netcoreapp3.1\Job.API.dll
+E:\uday\j1\EnergyGetQuotes\bin\Debug\netcoreapp3.1\Job.API.pdb
+E:\uday\j1\EnergyGetQuotes\bin\Debug\netcoreapp3.1\Job.API.Views.dll
+E:\uday\j1\EnergyGetQuotes\bin\Debug\netcoreapp3.1\Job.API.Views.pdb
+E:\uday\j1\EnergyGetQuotes\bin\Debug\netcoreapp3.1\AutoMapper.dll
+E:\uday\j1\EnergyGetQuotes\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\uday\j1\EnergyGetQuotes\bin\Debug\netcoreapp3.1\Dapper.dll
+E:\uday\j1\EnergyGetQuotes\bin\Debug\netcoreapp3.1\GenFu.dll
+E:\uday\j1\EnergyGetQuotes\bin\Debug\netcoreapp3.1\GoCardless.dll
+E:\uday\j1\EnergyGetQuotes\bin\Debug\netcoreapp3.1\Humanizer.dll
+E:\uday\j1\EnergyGetQuotes\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+E:\uday\j1\EnergyGetQuotes\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\uday\j1\EnergyGetQuotes\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+E:\uday\j1\EnergyGetQuotes\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+E:\uday\j1\EnergyGetQuotes\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+E:\uday\j1\EnergyGetQuotes\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\uday\j1\EnergyGetQuotes\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\uday\j1\EnergyGetQuotes\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\uday\j1\EnergyGetQuotes\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\uday\j1\EnergyGetQuotes\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+E:\uday\j1\EnergyGetQuotes\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\uday\j1\EnergyGetQuotes\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\uday\j1\EnergyGetQuotes\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\uday\j1\EnergyGetQuotes\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\uday\j1\EnergyGetQuotes\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\uday\j1\EnergyGetQuotes\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\uday\j1\EnergyGetQuotes\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+E:\uday\j1\EnergyGetQuotes\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\uday\j1\EnergyGetQuotes\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\uday\j1\EnergyGetQuotes\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+E:\uday\j1\EnergyGetQuotes\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\uday\j1\EnergyGetQuotes\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+E:\uday\j1\EnergyGetQuotes\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\uday\j1\EnergyGetQuotes\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+E:\uday\j1\EnergyGetQuotes\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\uday\j1\EnergyGetQuotes\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\uday\j1\EnergyGetQuotes\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\uday\j1\EnergyGetQuotes\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\uday\j1\EnergyGetQuotes\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\uday\j1\EnergyGetQuotes\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\uday\j1\EnergyGetQuotes\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\uday\j1\EnergyGetQuotes\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+E:\uday\j1\EnergyGetQuotes\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+E:\uday\j1\EnergyGetQuotes\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\uday\j1\EnergyGetQuotes\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+E:\uday\j1\EnergyGetQuotes\bin\Debug\netcoreapp3.1\Serilog.dll
+E:\uday\j1\EnergyGetQuotes\bin\Debug\netcoreapp3.1\Serilog.AspNetCore.dll
+E:\uday\j1\EnergyGetQuotes\bin\Debug\netcoreapp3.1\Serilog.Extensions.Hosting.dll
+E:\uday\j1\EnergyGetQuotes\bin\Debug\netcoreapp3.1\Serilog.Extensions.Logging.dll
+E:\uday\j1\EnergyGetQuotes\bin\Debug\netcoreapp3.1\Serilog.Formatting.Compact.dll
+E:\uday\j1\EnergyGetQuotes\bin\Debug\netcoreapp3.1\Serilog.Settings.Configuration.dll
+E:\uday\j1\EnergyGetQuotes\bin\Debug\netcoreapp3.1\Serilog.Sinks.Console.dll
+E:\uday\j1\EnergyGetQuotes\bin\Debug\netcoreapp3.1\Serilog.Sinks.Debug.dll
+E:\uday\j1\EnergyGetQuotes\bin\Debug\netcoreapp3.1\Serilog.Sinks.File.dll
+E:\uday\j1\EnergyGetQuotes\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+E:\uday\j1\EnergyGetQuotes\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+E:\uday\j1\EnergyGetQuotes\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+E:\uday\j1\EnergyGetQuotes\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+E:\uday\j1\EnergyGetQuotes\bin\Debug\netcoreapp3.1\SqlKata.dll
+E:\uday\j1\EnergyGetQuotes\bin\Debug\netcoreapp3.1\SqlKata.Execution.dll
+E:\uday\j1\EnergyGetQuotes\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+E:\uday\j1\EnergyGetQuotes\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\uday\j1\EnergyGetQuotes\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\uday\j1\EnergyGetQuotes\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\uday\j1\EnergyGetQuotes\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\uday\j1\EnergyGetQuotes\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+E:\uday\j1\EnergyGetQuotes\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\uday\j1\EnergyGetQuotes\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+E:\uday\j1\EnergyGetQuotes\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\uday\j1\EnergyGetQuotes\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+E:\uday\j1\EnergyGetQuotes\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\uday\j1\EnergyGetQuotes\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+E:\uday\j1\EnergyGetQuotes\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+E:\uday\j1\EnergyGetQuotes\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+E:\uday\j1\EnergyGetQuotes\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+E:\uday\j1\EnergyGetQuotes\bin\Debug\netcoreapp3.1\Twilio.dll
+E:\uday\j1\EnergyGetQuotes\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\uday\j1\EnergyGetQuotes\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\uday\j1\EnergyGetQuotes\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\uday\j1\EnergyGetQuotes\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\uday\j1\EnergyGetQuotes\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+E:\uday\j1\EnergyGetQuotes\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+E:\uday\j1\EnergyGetQuotes\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+E:\uday\j1\EnergyGetQuotes\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+E:\uday\j1\EnergyGetQuotes\bin\Debug\netcoreapp3.1\runtimes\linux-mips64\native\libe_sqlite3.so
+E:\uday\j1\EnergyGetQuotes\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+E:\uday\j1\EnergyGetQuotes\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+E:\uday\j1\EnergyGetQuotes\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+E:\uday\j1\EnergyGetQuotes\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+E:\uday\j1\EnergyGetQuotes\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+E:\uday\j1\EnergyGetQuotes\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+E:\uday\j1\EnergyGetQuotes\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+E:\uday\j1\EnergyGetQuotes\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+E:\uday\j1\EnergyGetQuotes\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\uday\j1\EnergyGetQuotes\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\uday\j1\EnergyGetQuotes\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\uday\j1\EnergyGetQuotes\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\uday\j1\EnergyGetQuotes\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+E:\uday\j1\EnergyGetQuotes\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\uday\j1\EnergyGetQuotes\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+E:\uday\j1\EnergyGetQuotes\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+E:\uday\j1\EnergyGetQuotes\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\uday\j1\EnergyGetQuotes\bin\Debug\netcoreapp3.1\Job.Application.dll
+E:\uday\j1\EnergyGetQuotes\bin\Debug\netcoreapp3.1\Job.Core.dll
+E:\uday\j1\EnergyGetQuotes\bin\Debug\netcoreapp3.1\Job.Infrastructure.dll
+E:\uday\j1\EnergyGetQuotes\bin\Debug\netcoreapp3.1\Job.Application.pdb
+E:\uday\j1\EnergyGetQuotes\bin\Debug\netcoreapp3.1\Job.Core.pdb
+E:\uday\j1\EnergyGetQuotes\bin\Debug\netcoreapp3.1\Job.Infrastructure.pdb
+E:\uday\j1\EnergyGetQuotes\obj\Debug\netcoreapp3.1\Job.API.csproj.AssemblyReference.cache
+E:\uday\j1\EnergyGetQuotes\obj\Debug\netcoreapp3.1\Job.API.GeneratedMSBuildEditorConfig.editorconfig
+E:\uday\j1\EnergyGetQuotes\obj\Debug\netcoreapp3.1\Job.API.AssemblyInfoInputs.cache
+E:\uday\j1\EnergyGetQuotes\obj\Debug\netcoreapp3.1\Job.API.AssemblyInfo.cs
+E:\uday\j1\EnergyGetQuotes\obj\Debug\netcoreapp3.1\Job.API.csproj.CoreCompileInputs.cache
+E:\uday\j1\EnergyGetQuotes\obj\Debug\netcoreapp3.1\Job.API.MvcApplicationPartsAssemblyInfo.cs
+E:\uday\j1\EnergyGetQuotes\obj\Debug\netcoreapp3.1\Job.API.MvcApplicationPartsAssemblyInfo.cache
+E:\uday\j1\EnergyGetQuotes\obj\Debug\netcoreapp3.1\Job.API.RazorAssemblyInfo.cache
+E:\uday\j1\EnergyGetQuotes\obj\Debug\netcoreapp3.1\Job.API.RazorAssemblyInfo.cs
+E:\uday\j1\EnergyGetQuotes\obj\Debug\netcoreapp3.1\staticwebassets\Job.API.StaticWebAssets.Manifest.cache
+E:\uday\j1\EnergyGetQuotes\obj\Debug\netcoreapp3.1\Job.API.TagHelpers.input.cache
+E:\uday\j1\EnergyGetQuotes\obj\Debug\netcoreapp3.1\Job.API.TagHelpers.output.cache
+E:\uday\j1\EnergyGetQuotes\obj\Debug\netcoreapp3.1\Job.API.RazorCoreGenerate.cache
+E:\uday\j1\EnergyGetQuotes\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+E:\uday\j1\EnergyGetQuotes\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+E:\uday\j1\EnergyGetQuotes\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+E:\uday\j1\EnergyGetQuotes\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+E:\uday\j1\EnergyGetQuotes\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\uday\j1\EnergyGetQuotes\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+E:\uday\j1\EnergyGetQuotes\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+E:\uday\j1\EnergyGetQuotes\obj\Debug\netcoreapp3.1\Job.API.RazorTargetAssemblyInfo.cache
+E:\uday\j1\EnergyGetQuotes\obj\Debug\netcoreapp3.1\Job.API.RazorTargetAssemblyInfo.cs
+E:\uday\j1\EnergyGetQuotes\obj\Debug\netcoreapp3.1\Job.API.Views.pdb
+E:\uday\j1\EnergyGetQuotes\obj\Debug\netcoreapp3.1\Job.API.csproj.CopyComplete
+E:\uday\j1\EnergyGetQuotes\obj\Debug\netcoreapp3.1\Job.API.dll
+E:\uday\j1\EnergyGetQuotes\obj\Debug\netcoreapp3.1\Job.API.pdb
+E:\uday\j1\EnergyGetQuotes\obj\Debug\netcoreapp3.1\Job.API.genruntimeconfig.cache
+E:\uday\j1\EnergyGetQuotes\bin\Debug\netcoreapp3.1\Job.API.xml
+E:\uday\j1\EnergyGetQuotes\obj\Debug\netcoreapp3.1\Job.API.xml
+E:\uday\j1\EnergyGetQuotes\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\uday\j1\EnergyGetQuotes\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\uday\j1\EnergyGetQuotes\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\uday\j1\Job\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\uday\j1\Job\bin\Debug\netcoreapp3.1\appsettings.json
+E:\uday\j1\Job\bin\Debug\netcoreapp3.1\Job.API.StaticWebAssets.xml
+E:\uday\j1\Job\bin\Debug\netcoreapp3.1\Job.API.exe
+E:\uday\j1\Job\bin\Debug\netcoreapp3.1\Job.API.deps.json
+E:\uday\j1\Job\bin\Debug\netcoreapp3.1\Job.API.runtimeconfig.json
+E:\uday\j1\Job\bin\Debug\netcoreapp3.1\Job.API.runtimeconfig.dev.json
+E:\uday\j1\Job\bin\Debug\netcoreapp3.1\Job.API.dll
+E:\uday\j1\Job\bin\Debug\netcoreapp3.1\Job.API.pdb
+E:\uday\j1\Job\bin\Debug\netcoreapp3.1\Job.API.xml
+E:\uday\j1\Job\bin\Debug\netcoreapp3.1\Job.API.Views.dll
+E:\uday\j1\Job\bin\Debug\netcoreapp3.1\Job.API.Views.pdb
+E:\uday\j1\Job\bin\Debug\netcoreapp3.1\AutoMapper.dll
+E:\uday\j1\Job\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\uday\j1\Job\bin\Debug\netcoreapp3.1\Dapper.dll
+E:\uday\j1\Job\bin\Debug\netcoreapp3.1\GenFu.dll
+E:\uday\j1\Job\bin\Debug\netcoreapp3.1\GoCardless.dll
+E:\uday\j1\Job\bin\Debug\netcoreapp3.1\Humanizer.dll
+E:\uday\j1\Job\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+E:\uday\j1\Job\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\uday\j1\Job\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\uday\j1\Job\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+E:\uday\j1\Job\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+E:\uday\j1\Job\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+E:\uday\j1\Job\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\uday\j1\Job\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\uday\j1\Job\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\uday\j1\Job\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\uday\j1\Job\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+E:\uday\j1\Job\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\uday\j1\Job\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\uday\j1\Job\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\uday\j1\Job\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\uday\j1\Job\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\uday\j1\Job\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\uday\j1\Job\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+E:\uday\j1\Job\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\uday\j1\Job\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\uday\j1\Job\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+E:\uday\j1\Job\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\uday\j1\Job\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+E:\uday\j1\Job\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\uday\j1\Job\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+E:\uday\j1\Job\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\uday\j1\Job\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\uday\j1\Job\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\uday\j1\Job\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\uday\j1\Job\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\uday\j1\Job\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\uday\j1\Job\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\uday\j1\Job\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\uday\j1\Job\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\uday\j1\Job\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+E:\uday\j1\Job\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+E:\uday\j1\Job\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\uday\j1\Job\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+E:\uday\j1\Job\bin\Debug\netcoreapp3.1\Serilog.dll
+E:\uday\j1\Job\bin\Debug\netcoreapp3.1\Serilog.AspNetCore.dll
+E:\uday\j1\Job\bin\Debug\netcoreapp3.1\Serilog.Extensions.Hosting.dll
+E:\uday\j1\Job\bin\Debug\netcoreapp3.1\Serilog.Extensions.Logging.dll
+E:\uday\j1\Job\bin\Debug\netcoreapp3.1\Serilog.Formatting.Compact.dll
+E:\uday\j1\Job\bin\Debug\netcoreapp3.1\Serilog.Settings.Configuration.dll
+E:\uday\j1\Job\bin\Debug\netcoreapp3.1\Serilog.Sinks.Console.dll
+E:\uday\j1\Job\bin\Debug\netcoreapp3.1\Serilog.Sinks.Debug.dll
+E:\uday\j1\Job\bin\Debug\netcoreapp3.1\Serilog.Sinks.File.dll
+E:\uday\j1\Job\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+E:\uday\j1\Job\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+E:\uday\j1\Job\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+E:\uday\j1\Job\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+E:\uday\j1\Job\bin\Debug\netcoreapp3.1\SqlKata.dll
+E:\uday\j1\Job\bin\Debug\netcoreapp3.1\SqlKata.Execution.dll
+E:\uday\j1\Job\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+E:\uday\j1\Job\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\uday\j1\Job\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\uday\j1\Job\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\uday\j1\Job\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\uday\j1\Job\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+E:\uday\j1\Job\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\uday\j1\Job\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+E:\uday\j1\Job\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\uday\j1\Job\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+E:\uday\j1\Job\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\uday\j1\Job\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+E:\uday\j1\Job\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+E:\uday\j1\Job\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+E:\uday\j1\Job\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+E:\uday\j1\Job\bin\Debug\netcoreapp3.1\Twilio.dll
+E:\uday\j1\Job\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\uday\j1\Job\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\uday\j1\Job\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\uday\j1\Job\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\uday\j1\Job\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+E:\uday\j1\Job\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+E:\uday\j1\Job\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+E:\uday\j1\Job\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+E:\uday\j1\Job\bin\Debug\netcoreapp3.1\runtimes\linux-mips64\native\libe_sqlite3.so
+E:\uday\j1\Job\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+E:\uday\j1\Job\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+E:\uday\j1\Job\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+E:\uday\j1\Job\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+E:\uday\j1\Job\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+E:\uday\j1\Job\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+E:\uday\j1\Job\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+E:\uday\j1\Job\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+E:\uday\j1\Job\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\uday\j1\Job\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\uday\j1\Job\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\uday\j1\Job\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\uday\j1\Job\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+E:\uday\j1\Job\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\uday\j1\Job\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+E:\uday\j1\Job\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+E:\uday\j1\Job\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\uday\j1\Job\bin\Debug\netcoreapp3.1\Job.Application.dll
+E:\uday\j1\Job\bin\Debug\netcoreapp3.1\Job.Core.dll
+E:\uday\j1\Job\bin\Debug\netcoreapp3.1\Job.Infrastructure.dll
+E:\uday\j1\Job\bin\Debug\netcoreapp3.1\Job.Application.pdb
+E:\uday\j1\Job\bin\Debug\netcoreapp3.1\Job.Core.pdb
+E:\uday\j1\Job\bin\Debug\netcoreapp3.1\Job.Infrastructure.pdb
+E:\uday\j1\Job\obj\Debug\netcoreapp3.1\Job.API.csproj.AssemblyReference.cache
+E:\uday\j1\Job\obj\Debug\netcoreapp3.1\Job.API.GeneratedMSBuildEditorConfig.editorconfig
+E:\uday\j1\Job\obj\Debug\netcoreapp3.1\Job.API.AssemblyInfoInputs.cache
+E:\uday\j1\Job\obj\Debug\netcoreapp3.1\Job.API.AssemblyInfo.cs
+E:\uday\j1\Job\obj\Debug\netcoreapp3.1\Job.API.csproj.CoreCompileInputs.cache
+E:\uday\j1\Job\obj\Debug\netcoreapp3.1\Job.API.MvcApplicationPartsAssemblyInfo.cs
+E:\uday\j1\Job\obj\Debug\netcoreapp3.1\Job.API.MvcApplicationPartsAssemblyInfo.cache
+E:\uday\j1\Job\obj\Debug\netcoreapp3.1\Job.API.RazorAssemblyInfo.cache
+E:\uday\j1\Job\obj\Debug\netcoreapp3.1\Job.API.RazorAssemblyInfo.cs
+E:\uday\j1\Job\obj\Debug\netcoreapp3.1\staticwebassets\Job.API.StaticWebAssets.Manifest.cache
+E:\uday\j1\Job\obj\Debug\netcoreapp3.1\Job.API.TagHelpers.input.cache
+E:\uday\j1\Job\obj\Debug\netcoreapp3.1\Job.API.TagHelpers.output.cache
+E:\uday\j1\Job\obj\Debug\netcoreapp3.1\Job.API.RazorCoreGenerate.cache
+E:\uday\j1\Job\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+E:\uday\j1\Job\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+E:\uday\j1\Job\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+E:\uday\j1\Job\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+E:\uday\j1\Job\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\uday\j1\Job\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+E:\uday\j1\Job\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+E:\uday\j1\Job\obj\Debug\netcoreapp3.1\Job.API.RazorTargetAssemblyInfo.cache
+E:\uday\j1\Job\obj\Debug\netcoreapp3.1\Job.API.RazorTargetAssemblyInfo.cs
+E:\uday\j1\Job\obj\Debug\netcoreapp3.1\Job.API.Views.pdb
+E:\uday\j1\Job\obj\Debug\netcoreapp3.1\Job.API.csproj.CopyComplete
+E:\uday\j1\Job\obj\Debug\netcoreapp3.1\Job.API.dll
+E:\uday\j1\Job\obj\Debug\netcoreapp3.1\Job.API.xml
+E:\uday\j1\Job\obj\Debug\netcoreapp3.1\Job.API.pdb
+E:\uday\j1\Job\obj\Debug\netcoreapp3.1\Job.API.genruntimeconfig.cache
+E:\uday\New folder\JobApplication\Job\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\uday\New folder\JobApplication\Job\bin\Debug\netcoreapp3.1\appsettings.json
+E:\uday\New folder\JobApplication\Job\bin\Debug\netcoreapp3.1\Job.API.StaticWebAssets.xml
+E:\uday\New folder\JobApplication\Job\bin\Debug\netcoreapp3.1\Job.API.exe
+E:\uday\New folder\JobApplication\Job\bin\Debug\netcoreapp3.1\Job.API.deps.json
+E:\uday\New folder\JobApplication\Job\bin\Debug\netcoreapp3.1\Job.API.runtimeconfig.json
+E:\uday\New folder\JobApplication\Job\bin\Debug\netcoreapp3.1\Job.API.runtimeconfig.dev.json
+E:\uday\New folder\JobApplication\Job\bin\Debug\netcoreapp3.1\Job.API.dll
+E:\uday\New folder\JobApplication\Job\bin\Debug\netcoreapp3.1\Job.API.pdb
+E:\uday\New folder\JobApplication\Job\bin\Debug\netcoreapp3.1\Job.API.xml
+E:\uday\New folder\JobApplication\Job\bin\Debug\netcoreapp3.1\Job.API.Views.dll
+E:\uday\New folder\JobApplication\Job\bin\Debug\netcoreapp3.1\Job.API.Views.pdb
+E:\uday\New folder\JobApplication\Job\bin\Debug\netcoreapp3.1\AutoMapper.dll
+E:\uday\New folder\JobApplication\Job\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\uday\New folder\JobApplication\Job\bin\Debug\netcoreapp3.1\Dapper.dll
+E:\uday\New folder\JobApplication\Job\bin\Debug\netcoreapp3.1\GenFu.dll
+E:\uday\New folder\JobApplication\Job\bin\Debug\netcoreapp3.1\GoCardless.dll
+E:\uday\New folder\JobApplication\Job\bin\Debug\netcoreapp3.1\Humanizer.dll
+E:\uday\New folder\JobApplication\Job\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+E:\uday\New folder\JobApplication\Job\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\uday\New folder\JobApplication\Job\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\uday\New folder\JobApplication\Job\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+E:\uday\New folder\JobApplication\Job\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+E:\uday\New folder\JobApplication\Job\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+E:\uday\New folder\JobApplication\Job\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\uday\New folder\JobApplication\Job\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\uday\New folder\JobApplication\Job\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\uday\New folder\JobApplication\Job\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\uday\New folder\JobApplication\Job\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+E:\uday\New folder\JobApplication\Job\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\uday\New folder\JobApplication\Job\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\uday\New folder\JobApplication\Job\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\uday\New folder\JobApplication\Job\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\uday\New folder\JobApplication\Job\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\uday\New folder\JobApplication\Job\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\uday\New folder\JobApplication\Job\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+E:\uday\New folder\JobApplication\Job\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\uday\New folder\JobApplication\Job\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\uday\New folder\JobApplication\Job\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+E:\uday\New folder\JobApplication\Job\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\uday\New folder\JobApplication\Job\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+E:\uday\New folder\JobApplication\Job\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\uday\New folder\JobApplication\Job\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+E:\uday\New folder\JobApplication\Job\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\uday\New folder\JobApplication\Job\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\uday\New folder\JobApplication\Job\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\uday\New folder\JobApplication\Job\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\uday\New folder\JobApplication\Job\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\uday\New folder\JobApplication\Job\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\uday\New folder\JobApplication\Job\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\uday\New folder\JobApplication\Job\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\uday\New folder\JobApplication\Job\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\uday\New folder\JobApplication\Job\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+E:\uday\New folder\JobApplication\Job\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+E:\uday\New folder\JobApplication\Job\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\uday\New folder\JobApplication\Job\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+E:\uday\New folder\JobApplication\Job\bin\Debug\netcoreapp3.1\Serilog.dll
+E:\uday\New folder\JobApplication\Job\bin\Debug\netcoreapp3.1\Serilog.AspNetCore.dll
+E:\uday\New folder\JobApplication\Job\bin\Debug\netcoreapp3.1\Serilog.Extensions.Hosting.dll
+E:\uday\New folder\JobApplication\Job\bin\Debug\netcoreapp3.1\Serilog.Extensions.Logging.dll
+E:\uday\New folder\JobApplication\Job\bin\Debug\netcoreapp3.1\Serilog.Formatting.Compact.dll
+E:\uday\New folder\JobApplication\Job\bin\Debug\netcoreapp3.1\Serilog.Settings.Configuration.dll
+E:\uday\New folder\JobApplication\Job\bin\Debug\netcoreapp3.1\Serilog.Sinks.Console.dll
+E:\uday\New folder\JobApplication\Job\bin\Debug\netcoreapp3.1\Serilog.Sinks.Debug.dll
+E:\uday\New folder\JobApplication\Job\bin\Debug\netcoreapp3.1\Serilog.Sinks.File.dll
+E:\uday\New folder\JobApplication\Job\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+E:\uday\New folder\JobApplication\Job\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+E:\uday\New folder\JobApplication\Job\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+E:\uday\New folder\JobApplication\Job\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+E:\uday\New folder\JobApplication\Job\bin\Debug\netcoreapp3.1\SqlKata.dll
+E:\uday\New folder\JobApplication\Job\bin\Debug\netcoreapp3.1\SqlKata.Execution.dll
+E:\uday\New folder\JobApplication\Job\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+E:\uday\New folder\JobApplication\Job\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\uday\New folder\JobApplication\Job\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\uday\New folder\JobApplication\Job\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\uday\New folder\JobApplication\Job\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\uday\New folder\JobApplication\Job\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+E:\uday\New folder\JobApplication\Job\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\uday\New folder\JobApplication\Job\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+E:\uday\New folder\JobApplication\Job\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\uday\New folder\JobApplication\Job\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+E:\uday\New folder\JobApplication\Job\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\uday\New folder\JobApplication\Job\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+E:\uday\New folder\JobApplication\Job\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+E:\uday\New folder\JobApplication\Job\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+E:\uday\New folder\JobApplication\Job\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+E:\uday\New folder\JobApplication\Job\bin\Debug\netcoreapp3.1\Twilio.dll
+E:\uday\New folder\JobApplication\Job\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\uday\New folder\JobApplication\Job\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\uday\New folder\JobApplication\Job\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\uday\New folder\JobApplication\Job\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\uday\New folder\JobApplication\Job\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+E:\uday\New folder\JobApplication\Job\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+E:\uday\New folder\JobApplication\Job\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+E:\uday\New folder\JobApplication\Job\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+E:\uday\New folder\JobApplication\Job\bin\Debug\netcoreapp3.1\runtimes\linux-mips64\native\libe_sqlite3.so
+E:\uday\New folder\JobApplication\Job\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+E:\uday\New folder\JobApplication\Job\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+E:\uday\New folder\JobApplication\Job\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+E:\uday\New folder\JobApplication\Job\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+E:\uday\New folder\JobApplication\Job\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+E:\uday\New folder\JobApplication\Job\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+E:\uday\New folder\JobApplication\Job\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+E:\uday\New folder\JobApplication\Job\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+E:\uday\New folder\JobApplication\Job\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\uday\New folder\JobApplication\Job\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\uday\New folder\JobApplication\Job\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\uday\New folder\JobApplication\Job\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\uday\New folder\JobApplication\Job\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+E:\uday\New folder\JobApplication\Job\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\uday\New folder\JobApplication\Job\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+E:\uday\New folder\JobApplication\Job\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+E:\uday\New folder\JobApplication\Job\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\uday\New folder\JobApplication\Job\bin\Debug\netcoreapp3.1\Job.Application.dll
+E:\uday\New folder\JobApplication\Job\bin\Debug\netcoreapp3.1\Job.Core.dll
+E:\uday\New folder\JobApplication\Job\bin\Debug\netcoreapp3.1\Job.Infrastructure.dll
+E:\uday\New folder\JobApplication\Job\bin\Debug\netcoreapp3.1\Job.Application.pdb
+E:\uday\New folder\JobApplication\Job\bin\Debug\netcoreapp3.1\Job.Core.pdb
+E:\uday\New folder\JobApplication\Job\bin\Debug\netcoreapp3.1\Job.Infrastructure.pdb
+E:\uday\New folder\JobApplication\Job\obj\Debug\netcoreapp3.1\Job.API.csproj.AssemblyReference.cache
+E:\uday\New folder\JobApplication\Job\obj\Debug\netcoreapp3.1\Job.API.GeneratedMSBuildEditorConfig.editorconfig
+E:\uday\New folder\JobApplication\Job\obj\Debug\netcoreapp3.1\Job.API.AssemblyInfoInputs.cache
+E:\uday\New folder\JobApplication\Job\obj\Debug\netcoreapp3.1\Job.API.AssemblyInfo.cs
+E:\uday\New folder\JobApplication\Job\obj\Debug\netcoreapp3.1\Job.API.csproj.CoreCompileInputs.cache
+E:\uday\New folder\JobApplication\Job\obj\Debug\netcoreapp3.1\Job.API.MvcApplicationPartsAssemblyInfo.cs
+E:\uday\New folder\JobApplication\Job\obj\Debug\netcoreapp3.1\Job.API.MvcApplicationPartsAssemblyInfo.cache
+E:\uday\New folder\JobApplication\Job\obj\Debug\netcoreapp3.1\Job.API.RazorAssemblyInfo.cache
+E:\uday\New folder\JobApplication\Job\obj\Debug\netcoreapp3.1\Job.API.RazorAssemblyInfo.cs
+E:\uday\New folder\JobApplication\Job\obj\Debug\netcoreapp3.1\staticwebassets\Job.API.StaticWebAssets.Manifest.cache
+E:\uday\New folder\JobApplication\Job\obj\Debug\netcoreapp3.1\Job.API.TagHelpers.input.cache
+E:\uday\New folder\JobApplication\Job\obj\Debug\netcoreapp3.1\Job.API.TagHelpers.output.cache
+E:\uday\New folder\JobApplication\Job\obj\Debug\netcoreapp3.1\Job.API.RazorCoreGenerate.cache
+E:\uday\New folder\JobApplication\Job\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+E:\uday\New folder\JobApplication\Job\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+E:\uday\New folder\JobApplication\Job\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+E:\uday\New folder\JobApplication\Job\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+E:\uday\New folder\JobApplication\Job\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\uday\New folder\JobApplication\Job\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+E:\uday\New folder\JobApplication\Job\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+E:\uday\New folder\JobApplication\Job\obj\Debug\netcoreapp3.1\Job.API.RazorTargetAssemblyInfo.cache
+E:\uday\New folder\JobApplication\Job\obj\Debug\netcoreapp3.1\Job.API.RazorTargetAssemblyInfo.cs
+E:\uday\New folder\JobApplication\Job\obj\Debug\netcoreapp3.1\Job.API.Views.pdb
+E:\uday\New folder\JobApplication\Job\obj\Debug\netcoreapp3.1\Job.API.csproj.CopyComplete
+E:\uday\New folder\JobApplication\Job\obj\Debug\netcoreapp3.1\Job.API.dll
+E:\uday\New folder\JobApplication\Job\obj\Debug\netcoreapp3.1\Job.API.xml
+E:\uday\New folder\JobApplication\Job\obj\Debug\netcoreapp3.1\Job.API.pdb
+E:\uday\New folder\JobApplication\Job\obj\Debug\netcoreapp3.1\Job.API.genruntimeconfig.cache

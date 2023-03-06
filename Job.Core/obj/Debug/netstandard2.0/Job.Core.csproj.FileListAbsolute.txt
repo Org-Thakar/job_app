@@ -1,0 +1,50 @@
+C:\Users\uday.s\Downloads\abc\Gas_GetQuotes\Gas_GetQuotes\EnergyGetQuotes.Core\bin\Debug\netstandard2.0\Job.Core.deps.json
+C:\Users\uday.s\Downloads\abc\Gas_GetQuotes\Gas_GetQuotes\EnergyGetQuotes.Core\bin\Debug\netstandard2.0\Job.Core.dll
+C:\Users\uday.s\Downloads\abc\Gas_GetQuotes\Gas_GetQuotes\EnergyGetQuotes.Core\bin\Debug\netstandard2.0\Job.Core.pdb
+C:\Users\uday.s\Downloads\abc\Gas_GetQuotes\Gas_GetQuotes\EnergyGetQuotes.Core\obj\Debug\netstandard2.0\Job.Core.csproj.AssemblyReference.cache
+C:\Users\uday.s\Downloads\abc\Gas_GetQuotes\Gas_GetQuotes\EnergyGetQuotes.Core\obj\Debug\netstandard2.0\Job.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uday.s\Downloads\abc\Gas_GetQuotes\Gas_GetQuotes\EnergyGetQuotes.Core\obj\Debug\netstandard2.0\Job.Core.AssemblyInfoInputs.cache
+C:\Users\uday.s\Downloads\abc\Gas_GetQuotes\Gas_GetQuotes\EnergyGetQuotes.Core\obj\Debug\netstandard2.0\Job.Core.AssemblyInfo.cs
+C:\Users\uday.s\Downloads\abc\Gas_GetQuotes\Gas_GetQuotes\EnergyGetQuotes.Core\obj\Debug\netstandard2.0\Job.Core.csproj.CoreCompileInputs.cache
+C:\Users\uday.s\Downloads\abc\Gas_GetQuotes\Gas_GetQuotes\EnergyGetQuotes.Core\obj\Debug\netstandard2.0\Job.Core.dll
+C:\Users\uday.s\Downloads\abc\Gas_GetQuotes\Gas_GetQuotes\EnergyGetQuotes.Core\obj\Debug\netstandard2.0\Job.Core.pdb
+E:\uday\Job\EnergyGetQuotes.Core\bin\Debug\netstandard2.0\Job.Core.deps.json
+E:\uday\Job\EnergyGetQuotes.Core\bin\Debug\netstandard2.0\Job.Core.dll
+E:\uday\Job\EnergyGetQuotes.Core\bin\Debug\netstandard2.0\Job.Core.pdb
+E:\uday\Job\EnergyGetQuotes.Core\obj\Debug\netstandard2.0\Job.Core.csproj.AssemblyReference.cache
+E:\uday\Job\EnergyGetQuotes.Core\obj\Debug\netstandard2.0\Job.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\uday\Job\EnergyGetQuotes.Core\obj\Debug\netstandard2.0\Job.Core.AssemblyInfoInputs.cache
+E:\uday\Job\EnergyGetQuotes.Core\obj\Debug\netstandard2.0\Job.Core.AssemblyInfo.cs
+E:\uday\Job\EnergyGetQuotes.Core\obj\Debug\netstandard2.0\Job.Core.csproj.CoreCompileInputs.cache
+E:\uday\Job\EnergyGetQuotes.Core\obj\Debug\netstandard2.0\Job.Core.dll
+E:\uday\Job\EnergyGetQuotes.Core\obj\Debug\netstandard2.0\Job.Core.pdb
+E:\uday\j1\EnergyGetQuotes.Core\bin\Debug\netstandard2.0\Job.Core.deps.json
+E:\uday\j1\EnergyGetQuotes.Core\bin\Debug\netstandard2.0\Job.Core.dll
+E:\uday\j1\EnergyGetQuotes.Core\bin\Debug\netstandard2.0\Job.Core.pdb
+E:\uday\j1\EnergyGetQuotes.Core\obj\Debug\netstandard2.0\Job.Core.csproj.AssemblyReference.cache
+E:\uday\j1\EnergyGetQuotes.Core\obj\Debug\netstandard2.0\Job.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\uday\j1\EnergyGetQuotes.Core\obj\Debug\netstandard2.0\Job.Core.AssemblyInfoInputs.cache
+E:\uday\j1\EnergyGetQuotes.Core\obj\Debug\netstandard2.0\Job.Core.AssemblyInfo.cs
+E:\uday\j1\EnergyGetQuotes.Core\obj\Debug\netstandard2.0\Job.Core.csproj.CoreCompileInputs.cache
+E:\uday\j1\EnergyGetQuotes.Core\obj\Debug\netstandard2.0\Job.Core.dll
+E:\uday\j1\EnergyGetQuotes.Core\obj\Debug\netstandard2.0\Job.Core.pdb
+E:\uday\j1\Job.Core\bin\Debug\netstandard2.0\Job.Core.deps.json
+E:\uday\j1\Job.Core\bin\Debug\netstandard2.0\Job.Core.dll
+E:\uday\j1\Job.Core\bin\Debug\netstandard2.0\Job.Core.pdb
+E:\uday\j1\Job.Core\obj\Debug\netstandard2.0\Job.Core.csproj.AssemblyReference.cache
+E:\uday\j1\Job.Core\obj\Debug\netstandard2.0\Job.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\uday\j1\Job.Core\obj\Debug\netstandard2.0\Job.Core.AssemblyInfoInputs.cache
+E:\uday\j1\Job.Core\obj\Debug\netstandard2.0\Job.Core.AssemblyInfo.cs
+E:\uday\j1\Job.Core\obj\Debug\netstandard2.0\Job.Core.csproj.CoreCompileInputs.cache
+E:\uday\j1\Job.Core\obj\Debug\netstandard2.0\Job.Core.dll
+E:\uday\j1\Job.Core\obj\Debug\netstandard2.0\Job.Core.pdb
+E:\uday\New folder\JobApplication\Job.Core\bin\Debug\netstandard2.0\Job.Core.deps.json
+E:\uday\New folder\JobApplication\Job.Core\bin\Debug\netstandard2.0\Job.Core.dll
+E:\uday\New folder\JobApplication\Job.Core\bin\Debug\netstandard2.0\Job.Core.pdb
+E:\uday\New folder\JobApplication\Job.Core\obj\Debug\netstandard2.0\Job.Core.csproj.AssemblyReference.cache
+E:\uday\New folder\JobApplication\Job.Core\obj\Debug\netstandard2.0\Job.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\uday\New folder\JobApplication\Job.Core\obj\Debug\netstandard2.0\Job.Core.AssemblyInfoInputs.cache
+E:\uday\New folder\JobApplication\Job.Core\obj\Debug\netstandard2.0\Job.Core.AssemblyInfo.cs
+E:\uday\New folder\JobApplication\Job.Core\obj\Debug\netstandard2.0\Job.Core.csproj.CoreCompileInputs.cache
+E:\uday\New folder\JobApplication\Job.Core\obj\Debug\netstandard2.0\Job.Core.dll
+E:\uday\New folder\JobApplication\Job.Core\obj\Debug\netstandard2.0\Job.Core.pdb

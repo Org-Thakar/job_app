@@ -1,0 +1,98 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Job.API</name>
+    </assembly>
+    <members>
+        <member name="M:Job.API.Controllers.AuthenticationController.AuthenticateUser(Job.Core.Entities.LoginModel)">
+            <summary>  
+            Hardcoded the User authentication  
+            </summary>  
+            <param name="login"></param>  
+            <returns></returns>  
+        </member>
+        <member name="M:Job.API.Controllers.AuthenticationController.Login(Job.Core.Entities.LoginModel)">
+            <summary>  
+            Login Authenticaton using JWT Token Authentication  
+            </summary>  
+            <param name="data"></param>  
+            <returns></returns>  
+        </member>
+        <member name="M:Job.API.Controllers.AuthenticationController.Get">
+            <summary>  
+            Authorize the Method  
+            </summary>  
+            <returns></returns>  
+        </member>
+        <member name="M:Job.API.Controllers.DepartmentController.GetDepartments">
+            <summary>
+            Get all Department
+            </summary>
+            <param name="Id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Job.API.Controllers.DepartmentController.UpdateDepartment(Job.Core.Entities.Department)">
+            <summary>
+            Update existing Department
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Job.API.Controllers.DepartmentController.CreateDepartment(Job.Core.Entities.NewDepartment)">
+            <summary>
+            Add new Department
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Job.API.Controllers.JobController.GetJobById(System.Int32)">
+            <summary>
+            Search Job by ID
+            </summary>
+            <param name="Id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Job.API.Controllers.JobController.GetJobList(Job.Core.Entities.JobListRequest)">
+            <summary>
+            List of all Jobs
+            </summary>
+            <param name="Id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Job.API.Controllers.JobController.CreateJob(Job.Core.Entities.JobRequest)">
+            <summary>
+            Add new Job
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Job.API.Controllers.JobController.UpdateJob(Job.Core.Entities.JobRequestUpdate)">
+            <summary>
+            Update existing Job
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Job.API.Controllers.LocationController.GetLocations">
+            <summary>
+            Get all locations
+            </summary>
+            <param name="Id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Job.API.Controllers.LocationController.UpdateLocation(Job.Core.Entities.LocationRequest)">
+            <summary>
+            Update existing Location
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Job.API.Controllers.LocationController.CreateLocation(Job.Core.Entities.LocationRequest)">
+            <summary>
+            Add new Location
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
